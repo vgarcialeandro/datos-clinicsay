@@ -1,7 +1,7 @@
 # Estrategia
-Procesamiento Incremental (Por fases)
-Los datos detectatos corresponden a pacientes, odontologos, citas, pagos y tratamientos.
-Para el procesamiento lo vamos a realizar de forma incrmental, segun el siguiente orden:
+Procesamiento Incremental (Por fases)  
+Los datos a migrar corresponden a pacientes, odontologos, citas, pagos y tratamientos.
+Para el procesamiento lo vamos a realizar de forma incremental, segun el siguiente orden:
 1. Pacientes
 2. Odontologos
 3. Tratamiento
