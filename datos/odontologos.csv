@@ -1,0 +1,61 @@
+id;nombre;especialidad;cmp;telefono;email;activo;created_at
+odon_0001;Dr. Roberto Sánchez;Estetica;CMP001;invalid;;1;2023-03-20T03:15:52.933338
+odon_0002;Dr. Pedro López;Cirugía Oral;CMP001;+54 11 4764-4463;dr..pedro.lópez@example.com;1;2022-07-04T03:15:52.933338
+odon_0003;Dr. Roberto Sánchez;Odontología General;CMP001;+54 11 2218-5593;dr..roberto.sánchez@example.com;1;2023-03-24T03:15:52.933338
+odon_0004;Dr. Juan García;ENDODONCIA;;+54 11 1256-4394;dr..juan.garcía@example.com;1;2022-03-03T03:15:52.933338
+odon_0005;Dra. Ana Pérez;PERIODONCIA;;+54 11 3661-4939;dra..ana.pérez@example.com;1;2021-08-16T03:15:52.933338
+odon_0006;Dra. Ana Pérez;CIRUGÍA ORAL;INVALID;+54 11 7288-3292;;1;2022-07-10T03:15:52.933338
+odon_0007;Dr. Pedro López;Cirugía;INVALID;+54 11 6666-1879;dr..pedro.lópez@example.com;0;2025-01-31T03:15:52.933338
+odon_0008;Dr. Pedro López;Pediátrico;CMP7499;+54 11 6347-1485;dr..pedro.lópez@example.com;1;2021-12-29T03:15:52.933338
+odon_0009;Dr. Roberto Sánchez;Prostodoncia;CMP6829;+54 11 7150-8075;dr..roberto.sánchez@example.com;1;2023-02-07T03:15:52.933338
+odon_0010;Dra. Ana Pérez;Perio;CMP5839;+54 11 5037-2204;dra..ana.pérez@example.com;0;2025-07-10T03:15:52.933338
+odon_0011;Dra. Ana Pérez;Endo;CMP7383;+54 11 6188-6909;;1;2026-05-11T03:15:52.933338
+odon_0012;Dra. Carmen Fernández;PROSTODONCIA;CMP5419;+54 11 2674-3170;dra..carmen.fernández@example.com;0;2023-12-21T03:15:52.933338
+odon_0013;Dr. Roberto Sánchez;Cirugía;CMP9395;+54 11 7685-2692;dr..roberto.sánchez@example.com;0;2024-05-27T03:15:52.933338
+odon_0014;Dr. Pedro López;ODONTOPEDIATRÍA;CMP1202;+54 11 5781-7779;dr..pedro.lópez@example.com;1;2025-11-29T03:15:52.933338
+odon_0015;Dr. Luis Martínez;Cirugía Oral;CMP7237;+54 11 3777-3274;dr..luis.martínez@example.com;1;2024-11-18T03:15:52.933338
+odon_0016;Dr. Roberto Sánchez;Endodoncia;CMP3739;invalid;;1;2024-01-10T03:15:52.933338
+odon_0017;Dra. Carmen Fernández;Prostodoncia;CMP6916;+54 11 5123-5040;dra..carmen.fernández@example.com;1;2023-08-10T03:15:52.933338
+odon_0018;Dr. Luis Martínez;Prostodoncia;CMP3219;+54 11 5991-1110;dr..luis.martínez@example.com;1;2024-07-10T03:15:52.933338
+odon_0019;Dra. Ana Pérez;ODONTOPEDIATRÍA;CMP6484;+54 11 8055-3230;dra..ana.pérez@example.com;1;2023-01-02T03:15:52.933338
+odon_0020;Dr. Luis Martínez;PROSTODONCIA;CMP3910;+54 11 7524-6228;dr..luis.martínez@example.com;1;2022-06-28T03:15:52.933338
+odon_0021;Dr. Roberto Sánchez;IMPLANTOLOGÍA;CMP7161;+54 11 5592-7437;;1;2021-02-28T03:15:52.933338
+odon_0022;Dr. Luis Martínez;Cirugía Oral;CMP1440;+54 11 8563-4434;dr..luis.martínez@example.com;1;2024-10-02T03:15:52.933338
+odon_0023;Dr. Pedro López;Estetica;CMP9180;+54 11 3280-5961;dr..pedro.lópez@example.com;1;2022-09-11T03:15:52.933338
+odon_0024;Dra. María González;ESTÉTICA DENTAL;CMP2211;+54 11 8357-8851;dra..maría.gonzález@example.com;1;2023-05-23T03:15:52.933338
+odon_0025;Dra. Ana Pérez;Cirugía Oral;CMP6890;+54 11 9796-2392;dra..ana.pérez@example.com;1;2024-12-29T03:15:52.933338
+odon_0026;Dr. Carlos Rodríguez;Endo;CMP1725;+54 11 7547-6432;;1;2023-12-22T03:15:52.933338
+odon_0027;Dr. Pedro López;Ortodoncia;CMP5239;+54 11 4637-9366;dr..pedro.lópez@example.com;1;2023-04-05T03:15:52.933338
+odon_0028;Dr. Luis Martínez;PROSTODONCIA;CMP7408;+54 11 8586-9199;dr..luis.martínez@example.com;1;2026-04-01T03:15:52.933338
+odon_0029;Dr. Roberto Sánchez;PERIODONCIA;CMP7815;+54 11 2406-2901;dr..roberto.sánchez@example.com;1;2022-04-17T03:15:52.933338
+odon_0030;Dra. María González;ODONTOPEDIATRÍA;CMP6620;+54 11 8460-4389;dra..maría.gonzález@example.com;1;2024-06-07T03:15:52.933338
+odon_0031;Dr. Roberto Sánchez;PERIODONCIA;CMP8412;invalid;;1;2024-09-14T03:15:52.933338
+odon_0032;Dr. Juan García;Periodoncia;CMP2791;+54 11 3692-4996;dr..juan.garcía@example.com;1;2023-04-17T03:15:52.933338
+odon_0033;Dra. María González;Pediátrico;CMP7985;+54 11 8570-4798;dra..maría.gonzález@example.com;1;2022-11-09T03:15:52.933338
+odon_0034;Dra. María González;Endo;CMP8080;+54 11 7481-1478;dra..maría.gonzález@example.com;1;2021-06-08T03:15:52.933338
+odon_0035;Dr. Luis Martínez;Prótesis;CMP8037;+54 11 7370-1072;dr..luis.martínez@example.com;1;2025-03-26T03:15:52.933338
+odon_0036;Dra. Carmen Fernández;Perio;CMP2667;+54 11 9796-4063;;1;2025-04-13T03:15:52.933338
+odon_0037;Dr. Roberto Sánchez;PERIODONCIA;CMP9019;+54 11 9646-6134;dr..roberto.sánchez@example.com;1;2022-12-17T03:15:52.933338
+odon_0038;Dra. Ana Pérez;PERIODONCIA;CMP6766;+54 11 8501-3826;dra..ana.pérez@example.com;1;2022-06-06T03:15:52.933338
+odon_0039;Dra. Carmen Fernández;Perio;CMP3194;+54 11 6131-2931;dra..carmen.fernández@example.com;1;2025-09-24T03:15:52.933338
+odon_0040;Dra. María González;Pediátrico;CMP3316;+54 11 9369-7364;dra..maría.gonzález@example.com;1;2025-08-12T03:15:52.933338
+odon_0041;Dra. Ana Pérez;Estética Dental;CMP8973;+54 11 9804-3838;;1;2023-08-23T03:15:52.933338
+odon_0042;Dra. Carmen Fernández;Endodoncia;CMP6154;+54 11 8389-1878;dra..carmen.fernández@example.com;1;2021-01-18T03:15:52.933338
+odon_0043;Dr. Juan García;Prostodoncia;CMP4196;+54 11 7290-9281;dr..juan.garcía@example.com;1;2024-02-04T03:15:52.933338
+odon_0044;Dr. Roberto Sánchez;Estetica;CMP8272;+54 11 9006-3740;dr..roberto.sánchez@example.com;0;2026-03-19T03:15:52.933338
+odon_0045;Dr. Luis Martínez;Odontología General;CMP5503;+54 11 4683-9808;dr..luis.martínez@example.com;1;2022-01-04T03:15:52.933338
+odon_0046;Dr. Roberto Sánchez;Prótesis;CMP9369;invalid;;1;2025-09-30T03:15:52.933338
+odon_0047;Dra. Carmen Fernández;CIRUGÍA ORAL;CMP9880;+54 11 1681-8231;dra..carmen.fernández@example.com;1;2024-01-02T03:15:52.933338
+odon_0048;Dr. Pedro López;IMPLANTOLOGÍA;CMP1528;+54 11 8368-5305;dr..pedro.lópez@example.com;1;2021-10-22T03:15:52.933338
+odon_0049;Dr. Pedro López;Prostodoncia;CMP4882;+54 11 4438-6744;dr..pedro.lópez@example.com;1;2022-12-19T03:15:52.933338
+odon_0050;Dra. Ana Pérez;Endo;CMP3281;+54 11 4385-4390;dra..ana.pérez@example.com;1;2023-03-11T03:15:52.933338
+odon_0051;Dr. Carlos Rodríguez;CIRUGÍA ORAL;CMP9827;+54 11 3758-6302;;1;2024-09-29T03:15:52.933338
+odon_0052;Dra. Carmen Fernández;Odontología General;CMP3221;+54 11 7743-1971;dra..carmen.fernández@example.com;1;2021-07-11T03:15:52.933338
+odon_0053;Dra. María González;Endodoncia;CMP3396;+54 11 6277-5055;dra..maría.gonzález@example.com;1;2022-08-06T03:15:52.933338
+odon_0054;Dra. Ana Pérez;Prostodoncia;CMP5402;+54 11 7786-7146;dra..ana.pérez@example.com;1;2022-11-01T03:15:52.933338
+odon_0055;Dr. Pedro López;Estetica;CMP5558;+54 11 7046-8449;dr..pedro.lópez@example.com;1;2024-07-20T03:15:52.933338
+odon_0056;Dr. Juan García;Perio;CMP8511;+54 11 6869-2037;;1;2024-02-27T03:15:52.933338
+odon_0057;Dr. Luis Martínez;Estética Dental;CMP9105;+54 11 5399-6289;dr..luis.martínez@example.com;1;2024-06-29T03:15:52.933338
+odon_0058;Dra. María González;PROSTODONCIA;CMP1793;+54 11 1752-2631;dra..maría.gonzález@example.com;1;2021-09-11T03:15:52.933338
+odon_0059;Dr. Roberto Sánchez;Ortodoncia;CMP3588;+54 11 8230-8479;dr..roberto.sánchez@example.com;0;2021-01-05T03:15:52.933338
+odon_0060;Dra. Ana Pérez;Implantes;CMP3161;+54 11 5945-3604;dra..ana.pérez@example.com;1;2021-06-21T03:15:52.933338

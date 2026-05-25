@@ -1,0 +1,261 @@
+id;paciente_id;odontologo_id;fecha;hora;motivo;estado;notas;created_at
+cita_000001;99999;99999;2020-01-01;25:00;Dolor de muelas;En proceso;;2024-05-13T03:15:52.934333
+cita_000002;65;6;2025-12-13;18:57;Tratamiento;Completada;;2022-11-17T03:15:52.934333
+cita_000003;79;47;2025-06-28;11:27;Tratamiento;Pendiente;Notas de la cita #3;2026-05-19T03:15:52.934333
+cita_000004;55;31;2026-05-13;10:37;Limpieza;No Show;;2022-06-27T03:15:52.934333
+cita_000005;88;53;2026-04-21;14:44;Limpieza;No Show;;2024-03-28T03:15:52.934333
+cita_000006;23;47;2026-04-30;09:20;Dolor de muelas;Cancelada;;2022-01-18T03:15:52.934333
+cita_000007;209;49;2026-04-14;18:43;Limpieza;Pendiente;Notas de la cita #7;2026-05-04T03:15:52.934333
+cita_000008;157;42;2026-03-29;15:22;Tratamiento;Completada;Notas de la cita #8;2025-07-15T03:15:52.934333
+cita_000009;236;27;2025-08-10;18:28;Chequeo;Completada;;2025-10-28T03:15:52.934333
+cita_000010;36;49;2026-04-19;17:46;Consulta;Cancelada;Notas de la cita #10;2024-08-15T03:15:52.934333
+cita_000011;203;9;2026-02-15;12:41;Revisión general;Completada;Notas de la cita #11;2023-01-09T03:15:52.934333
+cita_000012;185;39;2026-01-27;19:01;Chequeo;Cancelada;;2022-12-26T03:15:52.934333
+cita_000013;131;13;2025-06-04;14:18;Tratamiento;Pendiente;Notas de la cita #13;2021-12-08T03:15:52.934333
+cita_000014;245;16;2025-10-11;14:07;Limpieza;No Show;Notas de la cita #14;2025-12-27T03:15:52.934333
+cita_000015;136;57;2026-06-15;13:59;Dolor de muelas;Completada;Notas de la cita #15;2021-09-06T03:15:52.934333
+cita_000016;146;27;2025-12-16;25:00;Control;Completada;Notas de la cita #16;2021-01-13T03:15:52.934333
+cita_000017;253;50;2026-05-15;930;Revisión general;Pendiente;;2025-03-06T03:15:52.934333
+cita_000018;11;60;2026-05-22;;Chequeo;No Show;Notas de la cita #18;2022-11-11T03:15:52.934333
+cita_000019;183;33;2025-05-25;14:27;Tratamiento;No Show;;2023-05-19T03:15:52.934333
+cita_000020;138;40;2026-04-04;12:05;Dolor de muelas;Pendiente;Notas de la cita #20;2025-03-31T03:15:52.934333
+cita_000021;99999;52;2026-04-03;16:20;Consulta;Pendiente;Notas de la cita #21;2023-12-08T03:15:52.934333
+cita_000022;187;55;2026-02-19;08:15;Revisión general;No Show;;2022-12-15T03:15:52.934333
+cita_000023;156;4;2026-01-14;18:47;Tratamiento;Completada;;2022-06-02T03:15:52.934333
+cita_000024;36;45;2026-06-16;10:31;Dolor de muelas;Cancelada;;2025-09-04T03:15:52.934333
+cita_000025;192;50;2026-02-04;19:56;Revisión general;Pendiente;Notas de la cita #25;2023-12-24T03:15:52.934333
+cita_000026;70;99999;2025-09-26;09:16;Tratamiento;Pendiente;Notas de la cita #26;2023-07-10T03:15:52.934333
+cita_000027;93;4;2025-10-09;17:10;Dolor de muelas;Completada;;2025-10-23T03:15:52.934333
+cita_000028;229;37;2025-07-11;19:07;Limpieza;Pendiente;;2021-07-19T03:15:52.934333
+cita_000029;4;16;2026-05-29;15:23;Consulta;Completada;;2021-01-01T03:15:52.934333
+cita_000030;220;3;2025-09-11;19:47;Tratamiento;No Show;;2024-12-29T03:15:52.934333
+cita_000031;107;59;2020-01-01;25:00;Tratamiento;Cancelada;;2025-12-13T03:15:52.934333
+cita_000032;147;24;2026-04-21;16:43;Revisión general;Completada;;2023-06-30T03:15:52.934333
+cita_000033;252;3;2025-11-28;930;Revisión general;No Show;Notas de la cita #33;2022-01-18T03:15:52.934333
+cita_000034;217;20;2026-01-05;09:35;Consulta;Pendiente;Notas de la cita #34;2024-10-01T03:15:52.934333
+cita_000035;145;51;2026-01-17;;Tratamiento;Completada;Notas de la cita #35;2023-01-26T03:15:52.934333
+cita_000036;249;32;2025-05-22;11:46;Control;En proceso;Notas de la cita #36;2025-01-04T03:15:52.934333
+cita_000037;39;1;2025-11-24;08:14;Control;Cancelada;Notas de la cita #37;2022-07-01T03:15:52.934333
+cita_000038;225;1;2026-01-01;08:48;Tratamiento;No Show;Notas de la cita #38;2022-04-23T03:15:52.934333
+cita_000039;79;7;2026-03-08;16:15;Consulta;No Show;Notas de la cita #39;2020-12-07T03:15:52.934333
+cita_000040;37;46;2026-01-29;09:02;Limpieza;No Show;Notas de la cita #40;2024-04-19T03:15:52.934333
+cita_000041;99999;30;2025-06-04;09:37;Revisión general;Completada;Notas de la cita #41;2024-03-05T03:15:52.934333
+cita_000042;20;38;2025-09-04;08:27;Tratamiento;Completada;;2024-12-03T03:15:52.934333
+cita_000043;218;21;2025-12-02;19:53;Tratamiento;Cancelada;Notas de la cita #43;2024-11-11T03:15:52.934333
+cita_000044;60;5;2026-03-10;10:49;Chequeo;Pendiente;;2025-06-19T03:15:52.934333
+cita_000045;116;30;2026-01-12;14:07;Control;Cancelada;Notas de la cita #45;2025-03-22T03:15:52.934333
+cita_000046;116;20;2025-10-27;25:00;Dolor de muelas;Pendiente;;2021-11-10T03:15:52.934333
+cita_000047;176;20;2025-06-26;19:38;Revisión general;Completada;Notas de la cita #47;2024-07-19T03:15:52.934333
+cita_000048;38;6;2025-06-22;11:22;Consulta;Pendiente;Notas de la cita #48;2024-12-05T03:15:52.934333
+cita_000049;210;12;2026-06-06;930;Consulta;No Show;Notas de la cita #49;2023-04-21T03:15:52.934333
+cita_000050;64;7;2025-10-28;09:51;Chequeo;Completada;;2026-01-15T03:15:52.934333
+cita_000051;213;99999;2026-02-28;10:12;Chequeo;No Show;Notas de la cita #51;2022-11-08T03:15:52.934333
+cita_000052;241;42;2026-05-09;;Control;Cancelada;Notas de la cita #52;2025-12-19T03:15:52.934333
+cita_000053;6;5;2026-03-12;18:28;Chequeo;Completada;;2021-08-20T03:15:52.934333
+cita_000054;213;52;2026-01-03;09:02;Consulta;Pendiente;;2023-03-03T03:15:52.934333
+cita_000055;111;53;2025-06-16;14:31;Revisión general;No Show;Notas de la cita #55;2025-06-02T03:15:52.934333
+cita_000056;91;14;2026-03-18;12:17;Consulta;Completada;;2022-11-30T03:15:52.934333
+cita_000057;158;16;2025-07-25;12:31;Consulta;No Show;;2024-10-26T03:15:52.934333
+cita_000058;99;9;2025-11-19;11:41;Chequeo;Completada;Notas de la cita #58;2021-11-21T03:15:52.934333
+cita_000059;140;51;2026-06-12;14:50;Tratamiento;Cancelada;Notas de la cita #59;2022-01-02T03:15:52.934333
+cita_000060;125;23;2025-09-05;16:20;Consulta;Cancelada;;2024-08-06T03:15:52.934333
+cita_000061;99999;39;2020-01-01;25:00;Limpieza;Pendiente;Notas de la cita #61;2022-01-08T03:15:52.934333
+cita_000062;72;4;2025-10-23;16:22;Chequeo;Completada;Notas de la cita #62;2025-10-28T03:15:52.934333
+cita_000063;64;43;2026-02-18;12:34;Chequeo;Pendiente;Notas de la cita #63;2021-01-26T03:15:52.934333
+cita_000064;57;37;2025-12-05;13:59;Chequeo;Completada;;2023-01-24T03:15:52.934333
+cita_000065;82;52;2025-06-09;930;Tratamiento;Cancelada;Notas de la cita #65;2026-03-25T03:15:52.934333
+cita_000066;181;45;2025-12-23;17:36;Limpieza;Completada;Notas de la cita #66;2021-11-04T03:15:52.934333
+cita_000067;226;32;2025-09-17;12:11;Consulta;Pendiente;;2025-01-30T03:15:52.934333
+cita_000068;155;15;2026-06-11;16:30;Revisión general;Cancelada;Notas de la cita #68;2025-04-04T03:15:52.934333
+cita_000069;207;9;2025-12-29;;Tratamiento;Completada;Notas de la cita #69;2021-08-26T03:15:52.934333
+cita_000070;223;21;2026-05-22;08:09;Control;Completada;Notas de la cita #70;2021-08-22T03:15:52.934333
+cita_000071;135;56;2025-12-17;09:23;Tratamiento;En proceso;Notas de la cita #71;2024-03-02T03:15:52.934333
+cita_000072;151;7;2025-12-31;12:20;Limpieza;Completada;Notas de la cita #72;2023-12-09T03:15:52.934333
+cita_000073;203;41;2025-10-15;18:20;Limpieza;Cancelada;;2023-01-31T03:15:52.934333
+cita_000074;209;12;2025-12-10;12:46;Tratamiento;Cancelada;;2022-04-20T03:15:52.934333
+cita_000075;1;45;2025-09-01;14:54;Chequeo;Pendiente;;2024-08-08T03:15:52.934333
+cita_000076;236;99999;2025-08-12;25:00;Limpieza;Pendiente;Notas de la cita #76;2025-08-06T03:15:52.934333
+cita_000077;85;48;2026-05-13;11:22;Dolor de muelas;Completada;Notas de la cita #77;2020-12-26T03:15:52.934333
+cita_000078;23;53;2025-06-24;18:40;Tratamiento;Cancelada;Notas de la cita #78;2024-11-24T03:15:52.934333
+cita_000079;54;16;2025-07-02;09:22;Dolor de muelas;Pendiente;Notas de la cita #79;2026-02-12T03:15:52.934333
+cita_000080;99;29;2025-06-11;14:10;Consulta;No Show;Notas de la cita #80;2024-06-01T03:15:52.934333
+cita_000081;99999;35;2025-12-11;930;Revisión general;No Show;Notas de la cita #81;2023-02-23T03:15:52.934333
+cita_000082;167;49;2025-07-05;11:10;Consulta;Pendiente;Notas de la cita #82;2026-03-14T03:15:52.934333
+cita_000083;76;2;2026-01-09;12:06;Revisión general;Cancelada;;2024-04-13T03:15:52.934333
+cita_000084;42;47;2026-05-14;16:57;Revisión general;Cancelada;Notas de la cita #84;2022-12-12T03:15:52.934333
+cita_000085;229;31;2025-06-26;08:27;Tratamiento;Completada;Notas de la cita #85;2023-12-14T03:15:52.934333
+cita_000086;41;4;2026-05-01;;Dolor de muelas;Completada;Notas de la cita #86;2024-02-03T03:15:52.934333
+cita_000087;179;36;2025-06-17;19:34;Dolor de muelas;Cancelada;;2025-11-06T03:15:52.934333
+cita_000088;13;26;2025-09-02;16:53;Consulta;Completada;;2026-05-14T03:15:52.934333
+cita_000089;110;6;2026-01-22;18:40;Control;No Show;;2026-03-30T03:15:52.934333
+cita_000090;53;11;2025-07-30;12:05;Consulta;Pendiente;Notas de la cita #90;2024-02-27T03:15:52.934333
+cita_000091;121;32;2020-01-01;25:00;Tratamiento;Cancelada;;2023-05-03T03:15:52.934333
+cita_000092;100;12;2025-12-14;14:23;Limpieza;No Show;;2023-12-03T03:15:52.934333
+cita_000093;120;17;2026-02-26;12:36;Revisión general;Completada;Notas de la cita #93;2022-08-24T03:15:52.934333
+cita_000094;25;6;2025-07-14;13:51;Control;No Show;Notas de la cita #94;2023-01-30T03:15:52.934333
+cita_000095;59;36;2026-05-21;14:52;Control;No Show;Notas de la cita #95;2022-07-14T03:15:52.934333
+cita_000096;222;60;2025-10-21;17:56;Limpieza;No Show;;2024-03-04T03:15:52.934333
+cita_000097;232;55;2025-06-21;930;Revisión general;Completada;;2022-02-21T03:15:52.934333
+cita_000098;115;12;2026-03-28;11:51;Limpieza;Completada;;2025-12-12T03:15:52.934333
+cita_000099;253;44;2025-11-11;11:52;Tratamiento;Completada;Notas de la cita #99;2024-12-09T03:15:52.934333
+cita_000100;82;59;2025-06-14;09:05;Consulta;No Show;Notas de la cita #100;2021-08-01T03:15:52.934333
+cita_000101;99999;99999;2026-01-31;16:29;Chequeo;Pendiente;Notas de la cita #101;2022-11-22T03:15:52.934333
+cita_000102;151;34;2025-11-19;09:26;Limpieza;Completada;Notas de la cita #102;2023-02-13T03:15:52.934333
+cita_000103;195;7;2026-04-28;;Control;Pendiente;Notas de la cita #103;2021-07-10T03:15:52.934333
+cita_000104;138;57;2025-12-27;14:16;Consulta;No Show;Notas de la cita #104;2023-09-26T03:15:52.934333
+cita_000105;10;12;2026-01-31;14:09;Control;No Show;;2021-05-26T03:15:52.934333
+cita_000106;226;22;2025-07-03;25:00;Limpieza;En proceso;;2023-09-21T03:15:52.934333
+cita_000107;236;18;2025-12-13;08:21;Chequeo;Cancelada;Notas de la cita #107;2021-08-29T03:15:52.934333
+cita_000108;126;55;2025-06-30;18:06;Chequeo;Completada;;2020-12-03T03:15:52.934333
+cita_000109;191;29;2026-01-08;12:46;Consulta;Pendiente;;2025-03-15T03:15:52.934333
+cita_000110;234;53;2025-11-25;19:31;Chequeo;Cancelada;Notas de la cita #110;2023-07-01T03:15:52.934333
+cita_000111;203;11;2026-05-19;12:45;Control;No Show;;2021-08-12T03:15:52.934333
+cita_000112;135;57;2025-09-03;08:11;Limpieza;Completada;Notas de la cita #112;2024-12-27T03:15:52.934333
+cita_000113;9;30;2026-05-27;930;Dolor de muelas;Completada;;2021-10-08T03:15:52.934333
+cita_000114;119;33;2025-11-30;18:59;Revisión general;Pendiente;;2023-08-24T03:15:52.934333
+cita_000115;153;29;2026-03-23;15:37;Control;Cancelada;Notas de la cita #115;2021-09-09T03:15:52.934333
+cita_000116;229;17;2025-06-03;19:05;Dolor de muelas;Pendiente;Notas de la cita #116;2025-06-22T03:15:52.934333
+cita_000117;219;37;2026-03-04;11:41;Limpieza;Completada;;2024-02-03T03:15:52.934333
+cita_000118;132;2;2025-05-25;18:00;Consulta;Completada;Notas de la cita #118;2023-01-06T03:15:52.934333
+cita_000119;206;1;2026-02-27;12:38;Chequeo;Cancelada;Notas de la cita #119;2022-05-30T03:15:52.934333
+cita_000120;165;18;2025-11-17;;Consulta;Cancelada;Notas de la cita #120;2025-03-01T03:15:52.934333
+cita_000121;99999;30;2020-01-01;25:00;Dolor de muelas;No Show;Notas de la cita #121;2026-05-06T03:15:52.934333
+cita_000122;131;43;2025-12-12;16:41;Control;Cancelada;;2025-10-12T03:15:52.934333
+cita_000123;124;5;2025-12-31;12:40;Dolor de muelas;Cancelada;;2022-05-26T03:15:52.934333
+cita_000124;244;58;2025-07-23;12:12;Limpieza;Completada;Notas de la cita #124;2021-11-14T03:15:52.934333
+cita_000125;220;52;2025-08-18;14:42;Dolor de muelas;Completada;Notas de la cita #125;2022-09-17T03:15:52.934333
+cita_000126;128;99999;2026-01-21;12:58;Consulta;No Show;Notas de la cita #126;2026-03-10T03:15:52.934333
+cita_000127;150;46;2025-09-02;11:21;Tratamiento;Completada;Notas de la cita #127;2022-10-22T03:15:52.934333
+cita_000128;201;31;2025-07-13;13:32;Dolor de muelas;Completada;Notas de la cita #128;2021-06-21T03:15:52.934333
+cita_000129;143;12;2026-01-22;930;Revisión general;No Show;;2024-12-08T03:15:52.934333
+cita_000130;186;52;2025-09-08;10:43;Dolor de muelas;Pendiente;;2025-02-18T03:15:52.934333
+cita_000131;191;56;2026-01-15;14:50;Dolor de muelas;Cancelada;;2024-09-26T03:15:52.934333
+cita_000132;119;55;2026-04-22;15:03;Chequeo;Pendiente;Notas de la cita #132;2025-04-18T03:15:52.934333
+cita_000133;129;8;2025-07-08;14:33;Dolor de muelas;No Show;;2021-08-06T03:15:52.934333
+cita_000134;39;9;2026-03-11;13:26;Control;No Show;;2021-07-20T03:15:52.934333
+cita_000135;184;12;2026-05-11;15:21;Tratamiento;Completada;Notas de la cita #135;2026-01-23T03:15:52.934333
+cita_000136;2;29;2026-02-01;25:00;Limpieza;Completada;Notas de la cita #136;2025-07-01T03:15:52.934333
+cita_000137;126;51;2025-05-27;;Chequeo;Pendiente;;2023-12-15T03:15:52.934333
+cita_000138;163;28;2025-11-27;14:30;Consulta;Pendiente;;2025-04-08T03:15:52.934333
+cita_000139;188;24;2026-06-14;13:48;Chequeo;Completada;;2026-05-13T03:15:52.934333
+cita_000140;161;47;2026-02-14;11:44;Dolor de muelas;Cancelada;;2024-03-27T03:15:52.934333
+cita_000141;99999;33;2025-08-24;12:10;Revisión general;En proceso;Notas de la cita #141;2024-09-18T03:15:52.934333
+cita_000142;243;19;2025-10-31;19:33;Control;Cancelada;Notas de la cita #142;2022-07-15T03:15:52.934333
+cita_000143;255;9;2025-12-28;15:22;Chequeo;Completada;;2021-04-20T03:15:52.934333
+cita_000144;236;52;2025-11-27;08:14;Limpieza;Completada;;2026-04-07T03:15:52.934333
+cita_000145;151;33;2026-03-27;930;Revisión general;Cancelada;Notas de la cita #145;2021-12-11T03:15:52.934333
+cita_000146;10;25;2025-07-29;12:49;Control;Pendiente;Notas de la cita #146;2026-02-12T03:15:52.934333
+cita_000147;170;7;2025-07-22;08:03;Tratamiento;Pendiente;Notas de la cita #147;2024-04-03T03:15:52.934333
+cita_000148;32;36;2026-02-12;15:44;Limpieza;Completada;Notas de la cita #148;2022-11-08T03:15:52.935333
+cita_000149;3;20;2025-11-18;18:06;Tratamiento;Cancelada;Notas de la cita #149;2022-06-16T03:15:52.935333
+cita_000150;36;27;2026-04-29;16:46;Control;Pendiente;;2021-12-26T03:15:52.935333
+cita_000151;28;99999;2020-01-01;25:00;Consulta;Completada;Notas de la cita #151;2022-01-09T03:15:52.935333
+cita_000152;68;54;2025-09-27;11:22;Tratamiento;No Show;;2026-03-02T03:15:52.935333
+cita_000153;141;32;2026-03-07;19:59;Consulta;Cancelada;;2026-04-25T03:15:52.935333
+cita_000154;172;6;2026-04-26;;Chequeo;No Show;;2025-11-18T03:15:52.935333
+cita_000155;200;33;2026-05-14;19:46;Revisión general;Cancelada;Notas de la cita #155;2023-10-29T03:15:52.935333
+cita_000156;254;19;2026-02-06;15:03;Revisión general;Completada;Notas de la cita #156;2021-08-10T03:15:52.935333
+cita_000157;75;24;2025-07-10;13:27;Tratamiento;Pendiente;;2022-02-19T03:15:52.935333
+cita_000158;228;3;2026-06-17;10:42;Tratamiento;Completada;Notas de la cita #158;2021-05-16T03:15:52.935333
+cita_000159;113;40;2026-02-04;19:05;Dolor de muelas;Cancelada;;2024-02-21T03:15:52.935333
+cita_000160;103;30;2026-02-02;14:44;Chequeo;No Show;Notas de la cita #160;2022-10-01T03:15:52.935333
+cita_000161;99999;57;2026-03-28;930;Revisión general;Completada;Notas de la cita #161;2026-01-21T03:15:52.935333
+cita_000162;252;55;2026-04-01;09:26;Control;No Show;Notas de la cita #162;2022-08-01T03:15:52.935333
+cita_000163;113;12;2025-08-13;14:49;Dolor de muelas;Pendiente;Notas de la cita #163;2021-06-14T03:15:52.935333
+cita_000164;215;47;2026-04-16;15:58;Consulta;Pendiente;Notas de la cita #164;2023-12-01T03:15:52.935333
+cita_000165;12;5;2026-02-08;18:20;Revisión general;Completada;Notas de la cita #165;2022-08-19T03:15:52.935333
+cita_000166;224;22;2025-09-29;25:00;Control;Pendiente;Notas de la cita #166;2022-04-24T03:15:52.935333
+cita_000167;64;31;2025-12-26;18:43;Tratamiento;No Show;;2021-10-02T03:15:52.935333
+cita_000168;143;58;2025-08-12;08:00;Tratamiento;Completada;Notas de la cita #168;2023-10-03T03:15:52.935333
+cita_000169;219;32;2026-03-29;09:48;Consulta;Cancelada;;2020-12-12T03:15:52.935333
+cita_000170;72;4;2025-10-05;11:35;Tratamiento;No Show;Notas de la cita #170;2025-01-25T03:15:52.935333
+cita_000171;21;30;2025-11-06;;Chequeo;No Show;;2023-08-05T03:15:52.935333
+cita_000172;115;21;2026-04-22;15:47;Tratamiento;Pendiente;;2024-01-28T03:15:52.935333
+cita_000173;10;36;2025-09-13;08:52;Revisión general;Cancelada;Notas de la cita #173;2023-03-27T03:15:52.935333
+cita_000174;53;42;2025-07-13;15:21;Dolor de muelas;Pendiente;Notas de la cita #174;2021-08-26T03:15:52.935333
+cita_000175;117;22;2025-09-08;17:38;Consulta;Cancelada;Notas de la cita #175;2025-09-30T03:15:52.935333
+cita_000176;25;99999;2025-05-29;18:14;Revisión general;En proceso;Notas de la cita #176;2021-09-25T03:15:52.935333
+cita_000177;163;52;2026-01-23;930;Control;Cancelada;Notas de la cita #177;2026-02-17T03:15:52.935333
+cita_000178;230;11;2025-10-12;10:52;Tratamiento;No Show;;2022-12-17T03:15:52.935333
+cita_000179;51;13;2026-04-21;14:13;Consulta;Completada;Notas de la cita #179;2025-10-13T03:15:52.935333
+cita_000180;194;27;2026-05-29;18:53;Tratamiento;Pendiente;Notas de la cita #180;2023-11-11T03:15:52.935333
+cita_000181;99999;30;2020-01-01;25:00;Tratamiento;Completada;Notas de la cita #181;2026-05-13T03:15:52.935333
+cita_000182;136;48;2026-05-28;16:59;Consulta;No Show;Notas de la cita #182;2022-01-03T03:15:52.935333
+cita_000183;236;59;2026-03-23;19:37;Limpieza;Completada;;2022-09-13T03:15:52.935333
+cita_000184;154;39;2026-01-08;16:56;Consulta;No Show;Notas de la cita #184;2021-04-02T03:15:52.935333
+cita_000185;178;49;2026-02-14;12:25;Dolor de muelas;Cancelada;Notas de la cita #185;2025-08-21T03:15:52.935333
+cita_000186;36;27;2025-08-17;19:56;Tratamiento;Cancelada;Notas de la cita #186;2023-04-26T03:15:52.935333
+cita_000187;221;21;2025-06-22;19:59;Control;Completada;;2022-11-20T03:15:52.935333
+cita_000188;183;19;2025-07-05;;Dolor de muelas;Completada;Notas de la cita #188;2022-09-28T03:15:52.935333
+cita_000189;250;12;2025-10-07;16:44;Tratamiento;Cancelada;Notas de la cita #189;2022-02-13T03:15:52.935333
+cita_000190;91;36;2025-10-19;17:36;Tratamiento;No Show;Notas de la cita #190;2021-05-17T03:15:52.935333
+cita_000191;216;35;2026-01-26;14:51;Revisión general;Pendiente;;2025-07-28T03:15:52.935333
+cita_000192;14;43;2026-05-24;11:17;Chequeo;Completada;Notas de la cita #192;2022-07-22T03:15:52.935333
+cita_000193;65;10;2026-05-21;930;Tratamiento;Cancelada;;2023-05-09T03:15:52.935333
+cita_000194;9;23;2025-11-02;09:39;Chequeo;Completada;Notas de la cita #194;2023-03-29T03:15:52.935333
+cita_000195;100;16;2025-10-03;19:18;Tratamiento;Pendiente;Notas de la cita #195;2024-03-19T03:15:52.935333
+cita_000196;107;51;2025-07-06;25:00;Dolor de muelas;Pendiente;;2024-12-23T03:15:52.935333
+cita_000197;52;40;2025-11-07;11:58;Tratamiento;Cancelada;Notas de la cita #197;2023-04-28T03:15:52.935333
+cita_000198;190;39;2026-03-13;19:12;Dolor de muelas;No Show;;2022-07-23T03:15:52.935333
+cita_000199;20;12;2026-03-25;19:32;Revisión general;No Show;;2024-10-27T03:15:52.935333
+cita_000200;143;17;2026-04-16;10:37;Chequeo;Cancelada;;2023-10-09T03:15:52.935333
+cita_000201;99999;99999;2025-06-23;10:02;Limpieza;Cancelada;Notas de la cita #201;2022-01-18T03:15:52.935333
+cita_000202;239;41;2025-08-10;18:19;Consulta;Cancelada;;2022-06-02T03:15:52.935333
+cita_000203;82;34;2026-03-01;10:33;Revisión general;Completada;Notas de la cita #203;2023-05-18T03:15:52.935333
+cita_000204;104;6;2025-12-25;11:56;Limpieza;Cancelada;Notas de la cita #204;2024-09-27T03:15:52.935333
+cita_000205;56;49;2025-08-09;;Control;No Show;Notas de la cita #205;2021-10-08T03:15:52.935333
+cita_000206;193;42;2026-06-17;09:42;Dolor de muelas;No Show;;2022-10-14T03:15:52.935333
+cita_000207;158;59;2025-08-07;11:02;Tratamiento;Cancelada;Notas de la cita #207;2021-12-03T03:15:52.935333
+cita_000208;242;8;2025-12-06;12:34;Tratamiento;Cancelada;;2023-06-28T03:15:52.935333
+cita_000209;211;50;2025-12-12;930;Control;No Show;Notas de la cita #209;2024-09-21T03:15:52.935333
+cita_000210;230;42;2026-03-15;13:32;Revisión general;Pendiente;;2021-01-09T03:15:52.935333
+cita_000211;198;35;2020-01-01;25:00;Control;En proceso;;2026-01-07T03:15:52.935333
+cita_000212;54;43;2025-08-03;11:55;Tratamiento;No Show;Notas de la cita #212;2025-03-26T03:15:52.935333
+cita_000213;138;54;2025-06-27;19:49;Consulta;Pendiente;Notas de la cita #213;2025-07-11T03:15:52.935333
+cita_000214;7;30;2025-06-19;13:02;Revisión general;Pendiente;;2021-12-07T03:15:52.935333
+cita_000215;65;36;2026-05-16;17:52;Limpieza;Cancelada;Notas de la cita #215;2023-11-10T03:15:52.935333
+cita_000216;162;26;2025-11-12;13:01;Consulta;Pendiente;Notas de la cita #216;2022-10-16T03:15:52.935333
+cita_000217;185;40;2026-05-20;19:37;Revisión general;Pendiente;Notas de la cita #217;2023-07-27T03:15:52.935333
+cita_000218;28;19;2025-07-05;12:38;Revisión general;Cancelada;Notas de la cita #218;2023-12-07T03:15:52.935333
+cita_000219;98;26;2025-07-18;08:30;Limpieza;Completada;;2024-03-12T03:15:52.935333
+cita_000220;204;52;2025-09-15;12:40;Limpieza;Cancelada;Notas de la cita #220;2021-04-05T03:15:52.935333
+cita_000221;99999;51;2025-06-13;18:23;Revisión general;Completada;;2026-05-11T03:15:52.935333
+cita_000222;147;39;2025-12-02;;Control;Pendiente;Notas de la cita #222;2022-03-11T03:15:52.935333
+cita_000223;190;58;2025-06-15;13:13;Consulta;Completada;;2025-02-23T03:15:52.935333
+cita_000224;158;54;2026-02-12;11:07;Limpieza;Pendiente;Notas de la cita #224;2021-02-27T03:15:52.935333
+cita_000225;254;36;2025-10-28;930;Tratamiento;Pendiente;;2026-01-04T03:15:52.935333
+cita_000226;65;99999;2026-05-02;25:00;Limpieza;No Show;Notas de la cita #226;2024-05-20T03:15:52.935333
+cita_000227;33;43;2025-07-21;11:06;Dolor de muelas;Pendiente;Notas de la cita #227;2024-08-09T03:15:52.935333
+cita_000228;125;29;2026-01-04;17:42;Dolor de muelas;Completada;Notas de la cita #228;2024-05-05T03:15:52.935333
+cita_000229;207;21;2025-11-14;10:00;Dolor de muelas;Completada;Notas de la cita #229;2022-05-24T03:15:52.935333
+cita_000230;190;42;2025-11-10;12:53;Dolor de muelas;Completada;Notas de la cita #230;2024-07-11T03:15:52.935333
+cita_000231;225;31;2025-10-28;15:22;Chequeo;Cancelada;Notas de la cita #231;2025-10-11T03:15:52.935333
+cita_000232;45;42;2025-08-15;09:53;Dolor de muelas;Completada;Notas de la cita #232;2025-04-14T03:15:52.935333
+cita_000233;68;47;2025-08-05;09:46;Revisión general;Pendiente;Notas de la cita #233;2022-11-05T03:15:52.935333
+cita_000234;8;53;2025-08-28;17:25;Chequeo;Completada;Notas de la cita #234;2023-04-18T03:15:52.935333
+cita_000235;67;35;2025-09-18;15:41;Chequeo;Completada;Notas de la cita #235;2025-02-18T03:15:52.935333
+cita_000236;229;50;2025-08-24;19:54;Dolor de muelas;Completada;Notas de la cita #236;2023-07-11T03:15:52.935333
+cita_000237;24;26;2025-12-17;16:00;Tratamiento;Completada;Notas de la cita #237;2021-11-12T03:15:52.935333
+cita_000238;252;40;2025-07-06;10:48;Control;Completada;Notas de la cita #238;2025-05-20T03:15:52.935333
+cita_000239;145;37;2025-07-19;;Chequeo;Completada;Notas de la cita #239;2023-09-04T03:15:52.935333
+cita_000240;241;23;2026-06-01;11:48;Consulta;Completada;;2024-04-25T03:15:52.935333
+cita_000241;99999;15;2020-01-01;25:00;Revisión general;Completada;Notas de la cita #241;2021-12-13T03:15:52.935333
+cita_000242;93;25;2025-10-24;15:56;Revisión general;Pendiente;Notas de la cita #242;2024-07-27T03:15:52.935333
+cita_000243;27;46;2025-09-28;18:53;Dolor de muelas;Cancelada;Notas de la cita #243;2023-03-11T03:15:52.935333
+cita_000244;45;25;2025-07-22;14:23;Control;Pendiente;Notas de la cita #244;2024-04-11T03:15:52.935333
+cita_000245;250;59;2026-02-27;16:25;Dolor de muelas;Cancelada;Notas de la cita #245;2023-09-07T03:15:52.935333
+cita_000246;228;39;2026-06-18;16:56;Limpieza;En proceso;Notas de la cita #246;2025-02-04T03:15:52.935333
+cita_000247;20;33;2025-07-27;12:13;Limpieza;Completada;;2023-01-05T03:15:52.935333
+cita_000248;184;53;2026-04-22;18:14;Consulta;Cancelada;Notas de la cita #248;2023-09-08T03:15:52.935333
+cita_000249;173;31;2025-10-19;11:37;Limpieza;No Show;;2026-02-22T03:15:52.935333
+cita_000250;33;37;2025-08-22;10:08;Tratamiento;Pendiente;Notas de la cita #250;2025-07-25T03:15:52.935333
+cita_000251;15;99999;2026-03-28;12:59;Limpieza;No Show;Notas de la cita #251;2023-03-24T03:15:52.935333
+cita_000252;164;2;2025-06-18;19:42;Chequeo;Cancelada;Notas de la cita #252;2025-03-04T03:15:52.935333
+cita_000253;115;39;2025-10-23;15:10;Limpieza;No Show;Notas de la cita #253;2021-12-06T03:15:52.935333
+cita_000254;150;53;2025-05-25;10:39;Tratamiento;Cancelada;;2022-07-17T03:15:52.935333
+cita_000255;88;60;2025-11-01;17:37;Revisión general;Completada;Notas de la cita #255;2025-08-24T03:15:52.935333
+cita_000256;28;2;2026-03-10;25:00;Control;No Show;Notas de la cita #256;2022-12-28T03:15:52.935333
+cita_000257;25;12;2025-10-21;930;Control;Pendiente;Notas de la cita #257;2023-05-29T03:15:52.935333
+cita_000258;129;49;2026-04-22;09:30;Tratamiento;Completada;Notas de la cita #258;2023-05-13T03:15:52.935333
+cita_000259;212;1;2025-07-09;18:27;Control;No Show;Notas de la cita #259;2026-02-22T03:15:52.935333
+cita_000260;179;34;2025-11-14;11:51;Consulta;No Show;Notas de la cita #260;2021-11-16T03:15:52.935333
